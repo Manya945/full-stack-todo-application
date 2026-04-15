@@ -26,8 +26,10 @@
 <img width="1600" height="1041" alt="WhatsApp Image 2026-04-15 at 7 02 08 AM" src="https://github.com/user-attachments/assets/6b9084c7-559f-4b4d-ae94-677080027ea1" />
 <img width="1600" height="1041" alt="WhatsApp Image 2026-04-15 at 7 05 20 AM" src="https://github.com/user-attachments/assets/722fd1cd-2359-498d-9d97-5af2151cceed" />
 <img width="1600" height="1041" alt="WhatsApp Image 2026-04-15 at 7 05 40 AM" src="https://github.com/user-attachments/assets/239a946d-00a3-431d-afb2-93a59718f8bd" /> 
+
 7) challenges faced
    MongoDB connection issues, API handling, React state management, and CORS issues.
+   
 8) conclusion
    This project demonstrates a full-stack MERN application with CRUD operations and responsive UI
 
