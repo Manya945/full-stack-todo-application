@@ -11,12 +11,12 @@
 5. Real-time updates
 
 4) technologies used
-   1. Frontend: React.js
+1.Frontend: React.js
 2. Backend: Node.js, Express.js
 3. Database: MongoDB
 
  5) API endpoints
-    1. GET /tasks - Fetch all tasks
+ 1. GET /tasks - Fetch all tasks
 2. POST /tasks - Add task
 3. PUT/tasks/:id - Update task 
 4. DELETE /tasks/:id - Delete task
